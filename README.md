@@ -402,3 +402,17 @@ Updated context arn:aws:eks:eu-west-2:<ACCOUNT_NUMBER>:cluster/eks-terraform-pro
 ![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/60ac32b5-986b-49c0-a668-429f232cce64)
 - subnets:
 ![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/2b66d261-6d55-405f-a74f-9897fd6c585c)
+- internet-gateway:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/92e55fa5-de54-43a7-af99-07f6defc41b2)
+## EKS Components:
+- eks cluster:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/af9fa800-b501-47d1-bf4f-b6651b651090)
+
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/84405b5f-6a99-4ca1-8314-5732fc4a431b)
+
+- ec-2 instances:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/9c5adb6a-a133-41b4-9c53-f8dae97052a1)
+
+
+  ## THANK YOU 
+
