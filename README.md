@@ -391,8 +391,14 @@ $ aws eks update-kubeconfig --name eks-terraform-project --region eu-west-2
 Updated context arn:aws:eks:eu-west-2:<ACCOUNT_NUMBER>:cluster/eks-terraform-project in /Users/.kube/config
 ```
 
+# Screenshots 
+VPC
 
 
 
+
+
+
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/c363756b-d4e9-46e0-af61-97c62b28a678)
 
 
