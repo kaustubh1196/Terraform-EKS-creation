@@ -1,7 +1,7 @@
 
-# Creating EKS cluster using Terraform
+# AWS- Provision Amazon EKS Cluster Using Terraform Modules
 
-A brief description of what this project does and who it's for
+
 
 # Prerequisite
 AWS Account: You should have an active AWS account with the necessary permissions to create and manage resources.
