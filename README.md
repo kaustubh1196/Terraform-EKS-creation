@@ -392,13 +392,13 @@ Updated context arn:aws:eks:eu-west-2:<ACCOUNT_NUMBER>:cluster/eks-terraform-pro
 ```
 
 # Screenshots 
-VPC
-
-
-
-
-
-
+- VPC
 ![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/c363756b-d4e9-46e0-af61-97c62b28a678)
 
+- route table:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/6cc5c8a2-3fe7-4102-8771-5efa609d7d83)
 
+- nat-gateway:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/60ac32b5-986b-49c0-a668-429f232cce64)
+- subnets:
+![1_9vU7T-1vGgTJoK5SCd7VeQ](https://github.com/kaustubh1196/Terraform-EKS-creation/assets/108436461/2b66d261-6d55-405f-a74f-9897fd6c585c)
